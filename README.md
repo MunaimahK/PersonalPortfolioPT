@@ -10,6 +10,7 @@
  - Create Custom animation
  - .scss formatting
  - SVG Animations
+ - LoadBar 
  - Link GitHub and LikedIn into home page
 
 ### **Created With**
